@@ -17,7 +17,7 @@ const handlePayment = async (amount, bookingData, onSuccess) => {
 
     // 🔹 Configure Razorpay Payment Window
     const options = {
-      key: "rzp_test_jS4eq5qyIvdyCm", // Replace with your Razorpay test key
+      key: process.env.RazorKey, // Replace with your Razorpay test key
       amount: data.amount,
       currency: "INR",
       name: "Rent IT",
