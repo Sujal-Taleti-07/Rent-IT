@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Honda City",
+    "model": "ZX 2023",
+    "number": "MH12AB1234",
+    "type": "Car",
+    "seat": 4,
+    "price": 2500,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Toyota Innova",
+    "model": "Crysta 2022",
+    "number": "MH14CD5678",
+    "type": "Car",
+    "seat": 7,
+    "price": 3500,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Suzuki Swift",
+    "model": "VXI 2023",
+    "number": "MH16EF9101",
+    "type": "Car",
+    "seat": 4,
+    "price": 2000,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Hyundai Creta",
+    "model": "SX 2023",
+    "number": "MH18GH2345",
+    "type": "Car",
+    "seat": 4,
+    "price": 2800,
+    "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/41564/hyundai-creta-right-front-three-quarter9.jpeg?q=80"
+  },
+  {
+    "name": "Yamaha FZ",
+    "model": "FZ V3 2023",
+    "number": "MH19JK6789",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1200,
+    "image": "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/yamaha-select-model-metallic-black-1704796232757.png?q=80"
+  },
+  {
+    "name": "Bajaj Pulsar",
+    "model": "NS 200",
+    "number": "MH20LM1234",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1000,
+    "image": "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/bajaj-select-model-glossy-ebony-black-1709101661264.png?q=80"
+  },
+  {
+    "name": "Royal Enfield",
+    "model": "Classic 350",
+    "number": "MH21NO5678",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1800,
+    "image": "https://imgd.aeplcdn.com/1280x720/bw/models/royal-enfield-classic-350-single-channel-abs--bs-vi20200303121804.jpg"
+  },
+  {
+    "name": "Suzuki Gixxer",
+    "model": "SF 250",
+    "number": "MH22PQ9101",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1100,
+    "image": "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/suzuki-select-model-metallic-matte-stellar-blue-2023-1686037579896.png?q=80"
+  },
+  {
+    "name": "BMW X5",
+    "model": "xDrive 40i",
+    "number": "MH23RS3456",
+    "type": "Car",
+    "seat": 7,
+    "price": 5500,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/152681/x5-facelift-exterior-right-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Tata Nexon",
+    "model": "EV MAX",
+    "number": "MH24TU7890",
+    "type": "Car",
+    "seat": 4,
+    "price": 2300,
+    "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/121341/nexon-ev-max-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80&q=80"
+  },
+  {
+    "name": "KTM Duke 390",
+    "model": "BS6 2023",
+    "number": "MH26XY5678",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1700,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/148323/390-duke-2024-right-front-three-quarter-3.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Maruti Baleno",
+    "model": "Alpha 2023",
+    "number": "MH27AB9012",
+    "type": "Car",
+    "seat": 4,
+    "price": 2200,
+    "image": "https://imgd.aeplcdn.com/1056x594/n/g9qjfab_1653681.jpg?q=80"
+  },
+  {
+    "name": "Tata Curve",
+    "model": "Curve 2023",
+    "number": "MH28CD3456",
+    "type": "Car",
+    "seat": 4,
+    "price": 3000,
+    "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Mahindra Thar",
+    "model": "LX 4WD",
+    "number": "MH29EF7890",
+    "type": "Car",
+    "seat": 4,
+    "price": 4500,
+    "image": "https://imgd.aeplcdn.com/1056x594/n/qy7pp0b_1638615.jpg?q=80"
+  },
+  {
+    "name": "TVS Apache",
+    "model": "RTR 160",
+    "number": "MH30GH1234",
+    "type": "Bike",
+    "seat": 2,
+    "price": 900,
+    "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/97549/apache-rtr-160-4v-right-front-three-quarter-2.jpeg?isig=0"
+  },
+  {
+    "name": "Bajaj Avenger",
+    "model": "220 Cruise",
+    "number": "MH31JK5678",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1500,
+    "image": "https://media.zigcdn.com/media/model/2024/Mar/bajaj-avenger-cruise-220-right-side-view_600x400.jpg"
+  },
+  {
+    "name": "Skoda Rapid",
+    "model": "Style 2023",
+    "number": "MH32LM9012",
+    "type": "Car",
+    "seat": 4,
+    "price": 2400,
+    "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/49980/rapid-tsi-at-exterior-right-front-three-quarter-3.jpeg?q=80"
+  },
+  {
+    "name": "Ford EcoSport",
+    "model": "Titanium",
+    "number": "MH33NO3456",
+    "type": "Car",
+    "seat": 4,
+    "price": 3200,
+    "image": "https://imgd.aeplcdn.com/664x374/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=0&q=80"
+  },
+  {
+    "name": "Renault Kwid",
+    "model": "Climber",
+    "number": "MH34PQ7890",
+    "type": "Car",
+    "seat": 4,
+    "price": 1800,
+    "image": "https://cdni.autocarindia.com/ExtraImages/20211110112248_Renault_Triber_lead.jpg"
+  },
+  {
+    "name": "Yamaha R15",
+    "model": "V4 2023",
+    "number": "MH01SCO456",
+    "type": "Bike",
+    "seat": 2,
+    "price": 1200,
+    "image": "https://imgd.aeplcdn.com/1280x720/n/dfcapeb_1773033.jpg?q=100"
+  },
+  {
+    "name": "Suzuki Hayabusa",
+    "model": "V4 2023",
+    "number": "MH01SC4567",
+    "type": "Bike",
+    "seat": 2,
+    "price": 2500,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/145875/hayabusa-right-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "Ford Mustang",
+    "model": "GT 2020",
+    "number": "MH01SC1456",
+    "type": "Car",
+    "seat": 4,
+    "price": 4500,
+    "image": "https://imgd.aeplcdn.com/1280x720/cw/ec/23766/Ford-Mustang-Exterior-126883.jpg?wm=0&q=80"
+  },
+  {
+    "name": "Kawasaki Ninja",
+    "model": "H2R 2024",
+    "number": "MH01SC7777",
+    "type": "Bike",
+    "seat": 2,
+    "price": 2500,
+    "image": "https://cdn.visordown.com/styles/img_600/s3/field/image/73000.jpg?itok=WfKRQoey"
+  },
+  {
+    "name": "Honda Activa",
+    "model": "6G 2023",
+    "number": "MH01SCO1234",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 500,
+    "image": "https://imgd.aeplcdn.com/310x174/n/bw/models/colors/honda-select-model-black-1674535477895.png?q=80"
+  },
+  {
+    "name": "TVS Jupiter",
+    "model": "ZX 2023",
+    "number": "MH02SCO5678",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 450,
+    "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/114183/tvs-jupiter-left-front-three-quarter0.jpeg?isig=0"
+  },
+  {
+    "name": "Suzuki Access",
+    "model": "125cc 2023",
+    "number": "MH03SCO9101",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 550,
+    "image": "https://imgd.aeplcdn.com/310x174/n/bw/models/colors/suzuki-select-model-metallic-mattee-black-std-1679635807338.png?q=80"
+  },
+  {
+    "name": "Yamaha Aerox",
+    "model": "155 2024",
+    "number": "MH04SCO2345",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 900,
+    "image": "https://www.carandbike.com/_next/image?url=https%3A%2F%2Fimages.carandbike.com%2Fbike-images%2Fcolors%2Fyamaha%2Faerox-155%2Fyamaha-aerox-155-motogp-edition.jpg%3Fv%3D1696913904&w=750&q=75"
+  },
+  {
+    "name": "Hero Pleasure+",
+    "model": "Xtec 2023",
+    "number": "MH05SCO6789",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 400,
+    "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/173663/hero-pleasure-plus-left-side-view1.jpeg?isig=0&q=80"
+  },
+  {
+    "name": "TVS NTorq",
+    "model": "nt 2023",
+    "number": "MH01CSO8967",
+    "type": "Scooty",
+    "seat": 2,
+    "price": 700,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/KH/UD/PD/160885489/tvs-entorq-125-scooter-500x500.jpg"
+  }
+]
